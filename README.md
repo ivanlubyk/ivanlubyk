@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ivanlubyk" alt="ivanlubyk" /></a> </p>
 
-- 👯 I’m looking to collaborate on [wb-bot](https://github.com/ivanlubyk/wb-bot)
+- I created my own Telegram bot for training in the gym (https://github.com/ivanlubyk/wb-bot)
 
 - 👨‍💻 All of my projects are available at [https://github.com/ivanlubyk?tab=repositories](https://github.com/ivanlubyk?tab=repositories)
 
